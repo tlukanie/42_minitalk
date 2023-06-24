@@ -1,5 +1,5 @@
 # MINITALK
-<img src="img/demo.png">
+<img src="img/demo.png"><br>
 #### Description:
 <p>Minitalk is a small communication program in the form of a client and a server written completely on C language. The server is started first, and after its launch it prints its PID (process ID, a number used by most operating system kernels—such as those of Unix, macOS and Windows—to uniquely identify an active process). The client takes two parameters as the command line arguments: server PID and string to send. The client sends the string passed as the parameter to the server. Once the string has been received, the server prints it.
 </p>
